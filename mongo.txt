@@ -1,0 +1,3 @@
+hii 
+welcome to mango fruit shop
+price = 200 per kg

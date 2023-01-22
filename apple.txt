@@ -1,2 +1,3 @@
 Hi 
 Welcome to Apple Fruit shop.....
+price = 100 for kg..
